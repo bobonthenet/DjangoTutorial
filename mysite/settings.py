@@ -25,7 +25,7 @@ SECRET_KEY = '+xm%(y#fn&mi!&o11q1^jk95ie_8wigt!3v%qhks%e2^%08qed'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djangotutorial-bobonthenet.c9users.io',]
 
 
 # Application definition
